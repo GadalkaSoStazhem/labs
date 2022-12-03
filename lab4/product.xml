@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product><id>1</id><name>Шрэк</name><price>1200</price><descr>Элегантный букет из водяных лилий и камышей</descr></product>
+    <product><id>2</id><name>Собачья радость</name><price>2100</price><descr>Букет из лучшей колбасы</descr></product>
+<product><id>3</id><name>Трушный букет</name><price>200</price><descr>Четкая роза в целлофане</descr></product><product><id>4</id><name>от Масика</name><price>5000</price><descr>Очень фотогеничные розы для истории в соцсети</descr></product></products>
